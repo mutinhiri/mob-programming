@@ -6,6 +6,6 @@ function gradingStudents(grades) {
             grades[i] = grades[i] + (5-(grades[i]%5))
             
             
-        }
+       }
     }return grades;
 }
